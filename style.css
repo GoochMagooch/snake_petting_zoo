@@ -1,0 +1,18 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.left-menu {
+    margin-right: auto;
+}
+
+.menu-list {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    padding: 15px;
+}
